@@ -1,4 +1,8 @@
 .ipynb_checkpoints/*
-*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 3CarND-Traffic-Sign-Classifier-Project-master/savemodel/*
 3CarND-Traffic-Sign-Classifier-Project-master/*.p
+*/bvlc-alexnet.npy
+*/train.p
+*/.idea/*
+*/__pycache__/*
