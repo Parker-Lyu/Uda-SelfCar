@@ -16,6 +16,7 @@ Udacity的无人驾驶学位作业
 ### 2车道线检测简版
 [2CarND-LaneLines-P1](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/2CarND-LaneLines-P1)
 > 检测车道线
+
 > ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/2CarND-LaneLines-P1/examples/laneLines_show.jpg)
 
 ### 3交通标志分类
@@ -39,5 +40,8 @@ Udacity的无人驾驶学位作业
 > 标定相机，去除径向畸变对图像的影响
 > ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/6CarND-Camera-Calibration-master/result.png)
 
-
+### 进一步的车道线检测
+[7Advanced-Techniques-for-Lane-Finding](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/7Advanced-Techniques-for-Lane-Finding)
+> 利用颜色空间阈值及sobel算子等技术检测车道线
+> ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/7Advanced-Techniques-for-Lane-Finding/show.png)
 
