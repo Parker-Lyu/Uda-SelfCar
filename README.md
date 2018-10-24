@@ -15,7 +15,8 @@ Udacity的无人驾驶学位作业
 
 ### 2车道线检测简版
 [2CarND-LaneLines-P1](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/2CarND-LaneLines-P1)
-> 只是标注出其中的车道线<img src="2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+> 只是标注出其中的车道线
+> <img src="2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 ### 3交通标志分类
 [3CarND-Traffic-Sign-Classifier-Project-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/3CarND-Traffic-Sign-Classifier-Project-master)
@@ -28,5 +29,6 @@ Udacity的无人驾驶学位作业
 
 ### 5行为克隆
 [5CarND-Behavioral-Cloning-P3-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/5CarND-Behavioral-Cloning-P3-master)
-> udacity的驾驶模拟器，利用模拟器行车时产生的图片及对应的加速/减速/方向数据，训练一个行为克隆网络，模拟器也在上面的连接 ![](https://github.com/Parker-Lyu/Uda-SelfCar/blob/master/5CarND-Behavioral-Cloning-P3-master/video.mp4)
+> udacity的驾驶模拟器，利用模拟器行车时产生的图片及对应的加速/减速/方向数据，训练一个行为克隆网络，模拟器也在上面的连接
+> <img src="5CarND-Behavioral-Cloning-P3-master\examples\example.JPG" width="480" alt="Combined Image" />
 
