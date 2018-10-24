@@ -16,7 +16,7 @@ Udacity的无人驾驶学位作业
 ### 2车道线检测简版
 [2CarND-LaneLines-P1](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/2CarND-LaneLines-P1)
 > 检测车道线
-<img src="2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+> ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg)
 
 ### 3交通标志分类
 [3CarND-Traffic-Sign-Classifier-Project-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/3CarND-Traffic-Sign-Classifier-Project-master)
