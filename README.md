@@ -45,9 +45,10 @@ Udacity的无人驾驶学位作业
 > 利用颜色空间阈值及sobel算子等技术检测车道线
 > ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/7Advanced-Techniques-for-Lane-Finding/show.png)
 
-### 8检测视频里的车道线
+### 8视频车道线检测
 [8CarND-Advanced-Lane-Lines-P4](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/8CarND-Advanced-Lane-Lines-P4)
 > 从视频里检测车道线
+
 >![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/8CarND-Advanced-Lane-Lines-P4/output_images/show/show2.JPG)
 ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/8CarND-Advanced-Lane-Lines-P4/output_images/show/show3.JPG)
 
