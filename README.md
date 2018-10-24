@@ -10,4 +10,5 @@ Udacity的无人驾驶学位作业
 ### 2车道线检测简版
 [2CarND-LaneLines-P1](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/2CarND-LaneLines-P1)
 > 只是标注出其中的车道线
-![](https://github.com/Parker-Lyu/Uda-SelfCar/blob/master/2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg)
+
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
