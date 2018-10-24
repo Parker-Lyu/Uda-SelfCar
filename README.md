@@ -31,11 +31,11 @@ Udacity的无人驾驶学位作业
 [5CarND-Behavioral-Cloning-P3-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/5CarND-Behavioral-Cloning-P3-master)
 > udacity的驾驶模拟器，利用模拟器行车时产生的图片及对应的加速/减速/方向数据，训练一个行为克隆网络
 > 使用方法见该项目文件内的Readme
-<img src="5CarND-Behavioral-Cloning-P3-master\examples\example.JPG" width="480" alt="Combined Image" />
+> ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/5CarND-Behavioral-Cloning-P3-master/examples/example.JPG)
 
 ### 6相机标定
 [6CarND-Camera-Calibration-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/6CarND-Camera-Calibration-master)
 > 标定相机，去除径向畸变对图像的影响
-<img src="6CarND-Camera-Calibration-master\result.png" width="900" alt="Combined Image" />
+
 
 
