@@ -48,6 +48,9 @@ Udacity的无人驾驶学位作业
 ### 8检测视频里的车道线
 [8CarND-Advanced-Lane-Lines-P4](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/8CarND-Advanced-Lane-Lines-P4)
 > 从视频里检测车道线
-![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/8CarND-Advanced-Lane-Lines-P4/output_images/show/show1.jpg)
 ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/8CarND-Advanced-Lane-Lines-P4/output_images/show/show2.JPG)
 ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/8CarND-Advanced-Lane-Lines-P4/output_images/show/show3.JPG)
+
+### 9利用hog+SVM检测车辆
+[9Car-Detection](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/9Car-Detection)
+> hog+svm检测视频中的车辆
