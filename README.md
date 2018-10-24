@@ -1,8 +1,10 @@
 # Uda-SelfCar
 Udacity的无人驾驶学位作业
 
+
 ## 数据说明
 相关训练的数据存在了[百度云](https://pan.baidu.com/s/1XoR_bguA779c9jQvEDNsqQ)
+
 
 ## 内容说明
 
@@ -18,5 +20,9 @@ Udacity的无人驾驶学位作业
 ### 3交通标志分类
 [3CarND-Traffic-Sign-Classifier-Project-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/3CarND-Traffic-Sign-Classifier-Project-master)
 > 简单的分类项目及卷积网络可视化
+数据在上面的百度云连接
 
+### 4特征提取
+[4CarND-Alexnet-Feature-Extraction-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/4CarND-Alexnet-Feature-Extraction-master)
+> 权重数据在上面的百度云连接
 
