@@ -11,4 +11,4 @@ Udacity的无人驾驶学位作业
 [2CarND-LaneLines-P1](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/2CarND-LaneLines-P1)
 > 只是标注出其中的车道线
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+<img src="2CarND-LaneLines-P1/examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
