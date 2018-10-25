@@ -34,7 +34,7 @@ Udacity的无人驾驶学位作业
 
 > 使用方法见该项目文件内的Readme
 
-> ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/5CarND-Behavioral-Cloning-P3-master/result.gif)
+> ![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/5CarND-Behavioral-Cloning-P3-master/show.gif)
 
 ### 6相机标定
 [6CarND-Camera-Calibration-master](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/6CarND-Camera-Calibration-master)
