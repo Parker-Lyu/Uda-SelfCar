@@ -58,4 +58,4 @@ Udacity的无人驾驶学位作业
 [9Car-Detection](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/9Car-Detection)
 > hog+svm检测视频中的车辆
 
->![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/9Car-Detection/show.jpg)
+>![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/9Car-Detection/show.gif)
