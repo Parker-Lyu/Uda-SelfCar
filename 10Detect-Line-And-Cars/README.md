@@ -1,10 +1,11 @@
-# keras-yolo3
+# 车道线及车辆检测
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
 
-A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
+使用了两部分内容，一个是自己写的[车道线检测模块](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/8CarND-Advanced-Lane-Lines-P4)，利用该模块来检测车道线，一个是[github上开源的yolov3的keras解决方案](https://github.com/qqwweee/keras-yolo3),利用yolo检测车辆。
+源视频在车道线检测项目里，同样，百度云也可以下载到。由于使用方法和keras-yolo3没什么差别，参考下面的说明就好。
 
 
 ---
@@ -97,3 +98,10 @@ If you want to use original pretrained weights for YOLOv3:
 6. The training strategy is for reference only. Adjust it according to your dataset and your goal. And add further strategy if needed.
 
 7. For speeding up the training process with frozen layers train_bottleneck.py can be used. It will compute the bottleneck features of the frozen model first and then only trains the last layers. This makes training on CPU possible in a reasonable time. See [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) for more information on bottleneck features.
+
+---
+
+## TODO
+1. 车道线检测算法效率太低，极大拖慢了算法整体运行速度，提升空间很大。
+2. 虽然进行了简单的平滑处理，但仍然存在检测车辆不稳定的情况，需要改进
+3. 车辆遮挡及目标追踪问题
