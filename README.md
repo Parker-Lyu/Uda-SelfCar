@@ -61,8 +61,8 @@ Udacity的无人驾驶学位作业
 >![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/9Car-Detection/show.gif)
 
 
-### 10yolo3检测车辆及车道线检测
+### YOLO3 + 传统CV
 [10Detect-Line-And-Cars](https://github.com/Parker-Lyu/Uda-SelfCar/tree/master/10Detect-Line-And-Cars)
-> YOLO3 + 传统CV
+> 检测车辆及车道线检测
 
 >![](https://raw.githubusercontent.com/Parker-Lyu/Uda-SelfCar/master/10Detect-Line-And-Cars/show.gif)
