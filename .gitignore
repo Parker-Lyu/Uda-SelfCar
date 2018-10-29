@@ -6,3 +6,7 @@
 */train.p
 */.idea/*
 */__pycache__/*
+10Detect-Line-And-Cars/model_data/yolo.h5
+*/*.weights
+10Detect-Line-And-Cars/video/*.mp4
+
